@@ -16,7 +16,7 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,ros,linux,ubuntu,cmake,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ros,ros2,linux,ubuntu,cmake,git,github,docker,vscode,esp32,stm32" />
 </p>
 
 <br>
