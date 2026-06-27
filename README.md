@@ -20,6 +20,16 @@
 </p>
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FreeRTOS-557C94?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CAN_Bus-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-UART-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SPI-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-I2C-374151?style=for-the-badge" />
+</p>
+
 <!-- Projects -->
 <h3 align="center">Featured Projects</h3>
 
