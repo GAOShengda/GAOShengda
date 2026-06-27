@@ -16,19 +16,9 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,ros,ros2,linux,ubuntu,cmake,git,github,docker,vscode,esp32,stm32" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ros,linux,ubuntu,docker" />
 </p>
 
-<br>
-
-<!-- Focus -->
-<h3 align="center">Current Focus</h3>
-
-<p align="center">
-  Developing robotic manipulation systems with RGB-D perception, motion planning, and ROS 2 integration.
-</p>
-
-<br>
 
 <!-- Projects -->
 <h3 align="center">Featured Projects</h3>
